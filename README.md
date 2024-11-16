@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hewhocodes20
 - 👀 I’m interested in operating systems and Data structures
-- 🌱 I’m currently learning C++
+- 🌱 Leveraging skiils in C++,Python,Statistics...
   
-- 📫 How to reach me EMAIL- himankandatta1235@gmail.com
+- 📫 How to reach me EMAIL- himankandatta1235@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am LAzy
 
