@@ -3,7 +3,6 @@
 - 🌱 Leveraging skiils in C++,Python,Statistics...
   
 - 📫 How to reach me EMAIL- himankandatta1235@gmail.com 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am LAzy
 
 <!---
